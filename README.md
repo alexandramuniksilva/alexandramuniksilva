@@ -6,30 +6,30 @@ My focus is on **Data analysis in the financial sector**.
 ---
 
 ### **About Me**  
-- 📊 Transitioned from Financial Sales to Data Analytics  
-- 📚 Passionate about turning data into insights that drive business decisions  
-- 💡 Enjoy exploring financial data, predictive analytics, and data visualization  
+- Transitioned from Financial Sales to Data Analytics  
+- Passionate about turning data into insights that drive business decisions  
+- Enjoy exploring financial data, predictive analytics, and data visualization  
 
 ---
 
-### **📚 Tech Stack & Skills**  
+### ** Tech Stack & Skills**  
 
 #### **Technical Skills (Hard Skills)**  
-- ✅ **Programming Languages:** Python, SQL, R  
-- ✅ **Data Manipulation and Analysis:** Pandas, NumPy, SQL  
-- ✅ **Data Visualization:** Matplotlib, Seaborn  
+- **Programming Languages:** Python, SQL, R  
+- **Data Manipulation and Analysis:** Pandas, NumPy, SQL  
+- **Data Visualization:** Matplotlib, Seaborn  
 
 #### **Analytical and Business Skills (Soft Skills)**  
-- 💡 **Problem-Solving** – Ability to transform data into actionable insights  
-- 📊 **Data-Driven Decision Making** – Providing strategic support for businesses  
-- 🔍 **Attention to Detail** – Accuracy in data analysis and interpretation  
-- 🤝 **Teamwork & Collaboration** – Essential for open-source and enterprise projects  
+-  **Problem-Solving** – Ability to transform data into actionable insights  
+-  **Data-Driven Decision Making** – Providing strategic support for businesses  
+-  **Attention to Detail** – Accuracy in data analysis and interpretation  
+-  **Teamwork & Collaboration** – Essential for open-source and enterprise projects  
 
 ---
 
-### **💼 Work & Education**  
-- 🎓 **Higher Diploma in Data Analytics** – CCT College Dublin (2024-2025)  
-- 🎓 **Bachelor's Degree in Business** – Brazil  
+### ** Work & Education**  
+-  **Higher Diploma in Data Analytics** – CCT College Dublin (2024-2025)  
+-  **Bachelor's Degree in Business** – Brazil  
 
 ---
 
