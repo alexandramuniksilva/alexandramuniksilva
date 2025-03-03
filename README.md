@@ -6,9 +6,9 @@ I'm a **Data Analyst** with a background in **Business and Sales**, currently pu
 
 ### About Me
 
-📊 Transitioned from Financial Sales to Data Analytics
-📚 Passionate about turning data into insights that drive business decisions
-💡 Enjoy exploring financial data, predictive analytics, and data visualization
+-📊 Transitioned from Financial Sales to Data Analytics
+-📚 Passionate about turning data into insights that drive business decisions
+-💡 Enjoy exploring financial data, predictive analytics, and data visualization
 ---
 
 ### 📚 Tech Stack & Skills
@@ -20,10 +20,10 @@ Technical Skills (Hard Skills)
 
 
 Analytical and Business Skills (Soft Skills)
-💡 Problem-Solving – Ability to transform data into actionable insights
-📊 Data-Driven Decision Making – Providing strategic support for businesses
-🔍 Attention to Detail – Accuracy in data analysis and interpretation
-🤝 Teamwork & Collaboration – Essential for open-source and enterprise projects
+-💡 Problem-Solving – Ability to transform data into actionable insights
+-📊 Data-Driven Decision Making – Providing strategic support for businesses
+-🔍 Attention to Detail – Accuracy in data analysis and interpretation
+-🤝 Teamwork & Collaboration – Essential for open-source and enterprise projects
 
 
 ### 💼 Work & Education
