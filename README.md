@@ -1,7 +1,7 @@
 ### Hi there! I'm Alexandra Munik  
 
 I'm a **Data Analyst** with a background in **Business and Sales**, currently pursuing a **Higher Diploma in Data Analytics** at CCT College Dublin. 
-My focus is on **data analysis in the financial sector**.  
+My focus is on **Data analysis in the financial sector**.  
 
 ---
 
