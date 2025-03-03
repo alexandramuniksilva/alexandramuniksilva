@@ -14,9 +14,9 @@ I'm a **Data Analyst** with a background in **Business and Sales**, currently pu
 ### 📚 Tech Stack & Skills
 
 Technical Skills (Hard Skills)
-✅ Programming Languages: Python, SQL, R
-✅ Data Manipulation and Analysis: Pandas, NumPy, SQL
-✅ Data Visualization: Matplotlib, Seaborn
+-✅ Programming Languages: Python, SQL, R
+-✅ Data Manipulation and Analysis: Pandas, NumPy, SQL
+-✅ Data Visualization: Matplotlib, Seaborn
 
 
 Analytical and Business Skills (Soft Skills)
