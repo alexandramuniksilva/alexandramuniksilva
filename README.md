@@ -14,12 +14,33 @@ My focus is on **Data analysis in the financial sector**.
 
 ### Tech Stack & Skills  
 
-#### **Technical Skills (Hard Skills)**  
-- **Programming Languages:** Python, SQL, R  
-- **Data Manipulation and Analysis:** Pandas, NumPy, SQL  
-- **Data Visualization:** Matplotlib, Seaborn  
+#### **Technical Skills**  
 
-#### **Analytical and Business Skills (Soft Skills)**  
+### 📌 Programming
+- **Language:** Python  
+- **Libraries:** Pandas, NumPy, SciPy, Scikit-learn  
+
+### 📌 Data Manipulation & Analysis
+- Pandas (data wrangling and cleaning)  
+- NumPy (mathematical and vector operations)  
+
+### 📌 Data Visualization
+- Matplotlib (basic charts and customization)  
+- Seaborn (statistical visualizations)  
+
+### 📌 Statistics & Mathematics
+- Hypothesis Testing (T-Test, ANOVA)  
+- Predictive Models & Statistical Inference  
+
+### 📌 Machine Learning
+- Scikit-learn (Regression, Classification, Clustering)  
+- Basic Algorithms:  
+  - Decision Trees  
+  - Random Forest  
+  - K-Means  
+
+
+#### **Analytical and Business Skills**  
 -  **Problem-Solving** – Ability to transform data into actionable insights  
 -  **Data-Driven Decision Making** – Providing strategic support for businesses  
 -  **Attention to Detail** – Accuracy in data analysis and interpretation  
