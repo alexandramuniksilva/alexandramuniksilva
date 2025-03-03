@@ -27,7 +27,7 @@ My focus is on **Data analysis in the financial sector**.
 
 ---
 
-### Work & Education**  
+### Work & Education  
 -  **Higher Diploma in Data Analytics** – CCT College Dublin (2024-2025)  
 -  **Bachelor's Degree in Business** – Brazil  
 
