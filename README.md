@@ -12,7 +12,7 @@ My focus is on **Data analysis in the financial sector**.
 
 ---
 
-### ** Tech Stack & Skills**  
+### Tech Stack & Skills  
 
 #### **Technical Skills (Hard Skills)**  
 - **Programming Languages:** Python, SQL, R  
@@ -27,13 +27,13 @@ My focus is on **Data analysis in the financial sector**.
 
 ---
 
-### ** Work & Education**  
+### Work & Education**  
 -  **Higher Diploma in Data Analytics** – CCT College Dublin (2024-2025)  
 -  **Bachelor's Degree in Business** – Brazil  
 
 ---
 
-### **👤 Connect with Me**  
+### 👤 Connect with Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-silva-33b464103)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandramuniksilva)  
 
