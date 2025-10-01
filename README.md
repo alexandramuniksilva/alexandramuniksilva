@@ -16,23 +16,23 @@ My focus is on **Data analysis in the financial sector**.
 
 #### **Technical Skills**  
 
-### 📌 Programming
+###  Programming
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, SciPy, Scikit-learn  
 
-### 📌 Data Manipulation & Analysis
+###  Data Manipulation & Analysis
 - Pandas (data wrangling and cleaning)  
 - NumPy (mathematical and vector operations)  
 
-### 📌 Data Visualization
+###  Data Visualization
 - Matplotlib (basic charts and customization)  
 - Seaborn (statistical visualizations)  
 
-### 📌 Statistics & Mathematics
+###  Statistics & Mathematics
 - Hypothesis Testing (T-Test, ANOVA)  
 - Predictive Models & Statistical Inference  
 
-### 📌 Machine Learning
+###  Machine Learning
 - Scikit-learn (Regression, Classification, Clustering)  
 - Basic Algorithms:  
   - Decision Trees  
