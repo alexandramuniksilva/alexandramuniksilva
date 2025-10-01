@@ -33,8 +33,7 @@ My focus is on **Data analysis in the financial sector**.
 - Predictive Models & Statistical Inference  
 
 ###  Machine Learning
-- Scikit-learn (Regression, Classification, Clustering)  
-- Basic Algorithms:  
+- Scikit-learn (Regression, Classification, Clustering)    
   - Decision Trees  
   - Random Forest  
   - K-Means  
